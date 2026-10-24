@@ -22,22 +22,6 @@ QueueLess is a web-based hospital OPD queue management system developed using PH
 - **Database:** MySQL
 - **Local Development Environment:** XAMPP
 
-## Project Structure
-
-    QueueLess/
-    ├── index.php
-    ├── style.css
-    ├── script.js
-    ├── api.php
-    ├── db.php
-    ├── schema.sql
-    ├── create_admin.php
-    ├── README.md
-    ├── .gitignore
-    └── .env.example
-
-Note: The background image can be placed in `images/login-bg.png` if available.
-
 ## Installation and Setup
 
 ### 1. Install XAMPP
