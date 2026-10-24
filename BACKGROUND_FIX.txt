@@ -1,1 +1,0 @@
-Background image is bundled at images/login-bg.png. Keep the images folder beside index.php and style.css. Then open http://localhost/queueless/ and press Ctrl+F5. Emergency hides Preferred Time; backend uses current time to satisfy the existing database field. Database schema is unchanged.
